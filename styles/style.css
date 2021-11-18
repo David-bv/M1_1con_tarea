@@ -1,0 +1,36 @@
+* {
+    background-color: #f3f4f5;
+}
+
+div {
+    width: 60%;
+    margin-left: 20%;
+}
+
+h1 {
+    font-size: 24px;
+    font-family: Arial;
+    color: orangered;
+    text-align: center;
+}
+
+li {
+    font-size: 18px;
+    font-family: Georgia;
+    color: #757575;
+}
+
+P {
+    font-size: 18px;
+    font-family: Georgia;
+    color: #757575;
+}
+
+div img {
+    border-radius: 100%;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
